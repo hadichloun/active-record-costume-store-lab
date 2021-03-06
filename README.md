@@ -294,7 +294,7 @@ folder and the three files in the `db/migrations` folder.
 
 **Your models should be no longer than two lines of code.**
 
-* The first step is to run `bundle install`.
+<!-- * The first step is to run `bundle install`. -->
 * Create the Costume class in `app/models/`.
 * Fill out the Active Record migration for costumes such that it passes the
   specs.
