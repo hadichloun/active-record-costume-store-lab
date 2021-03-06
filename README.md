@@ -295,15 +295,15 @@ folder and the three files in the `db/migrations` folder.
 **Your models should be no longer than two lines of code.**
 
 <!-- * The first step is to run `bundle install`. -->
-* Create the Costume class in `app/models/`.
-* Fill out the Active Record migration for costumes such that it passes the
+<!-- * Create the Costume class in `app/models/`. -->
+<!-- * Fill out the Active Record migration for costumes such that it passes the
   specs.
 * Create the CostumeStore class in `app/models/`.
 * Fill out the Active Record migration for `costume_stores` such that it passes
   the specs.
 * Create the HauntedHouse class in `app/models/`.
 * Fill out the Active Record migration for haunted_houses such that it passes
-  the specs.
+  the specs. -->
 
 Just like for any other lab, run `learn test` to view your test progress. However,
 unlike some of the other labs in thie section, for this lab, when updating an
